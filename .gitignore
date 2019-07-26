@@ -1,0 +1,5 @@
+/.idea
+/.target
+/sparkCore/target
+/sparkSQL/target
+/sparkStreaming/target
